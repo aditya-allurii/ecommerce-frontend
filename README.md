@@ -1,3 +1,7 @@
+## Application Preview
+
+![ShopVyra Homepage](./Preview/homepage.png)
+
 # ShopVyra Frontend
 
 Modern E-Commerce Frontend built using React.
