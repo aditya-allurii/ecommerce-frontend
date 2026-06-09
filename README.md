@@ -1,6 +1,6 @@
 ## Application Preview
 
-![ShopVyra Homepage](./Preview/Screenshot 2026-06-09 at 14.03.02)
+![ShopVyra Homepage](./Preview/Screenshot%202026-06-09%20at%2014.03.02.png)
 
 # ShopVyra Frontend
 
