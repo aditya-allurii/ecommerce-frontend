@@ -235,7 +235,9 @@ export const getUserAddresses = () => async (dispatch, getState) => {
         dispatch({type: "USER_ADDRESS", payload: data});
         dispatch({ type: "IS_SUCCESS" });
     } catch (error) {
-        console.log(error);
+        console.log("PRODUCT ERROR:", error);
+        console.log("RESPONSE:", error?.response);
+        console.log("DATA:", error?.response?.data);
         dispatch({ 
             type: "IS_ERROR",
             payload: error?.response?.data?.message || "Failed to fetch user addresses",
