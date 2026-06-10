@@ -17,7 +17,7 @@ const categoryBanners = {
     "furniture & home living": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1200&h=300&q=80",
     "sports & fitness": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=1200&h=300&q=80",
     "grocery": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&h=300&q=80",
-    "automotive": "https://images.unsplash.com/photo-1449130320948-d5646ab59c91?auto=format&fit=crop&w=1200&h=300&q=80",
+    "automotive": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&h=300&q=80",
     "books": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&h=300&q=80",
     "toys & baby": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&w=1200&h=300&q=80"
 };
